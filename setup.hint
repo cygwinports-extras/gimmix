@@ -1,5 +1,5 @@
-category: Audio Gnome
-requires: libcurl4 libgcc1 libgdk_pixbuf2.0_0 libglade2.0_0 libglib2.0_0 libgtk2.0_0 libintl8 libnxml0 libtag_c0 libX11_6
+category: Audio
+requires: libcurl4 libgcc1 libgdk_pixbuf2.0_0 libglade2.0_0 libglib2.0_0 libgtk2.0_0 libintl8 libmpd1 libnxml0 libtag_c0 libX11_6
 sdesc: "GTK+2 client for Music Player Daemon"
 ldesc: "Gimmix is a graphical music player daemon (MPD) client written 
 in C using GTK+2. It's very simple and easy to use, yet offers many 
