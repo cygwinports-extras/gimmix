@@ -1,0 +1,12 @@
+inherit gnome2
+
+NAME="gimmix"
+VERSION=0.5.7.1
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="GTK+2 client for Music Player Daemon"
+DESCRIPTION="Gimmix is a graphical music player daemon (MPD) client written
+in C using GTK+2. It's very simple and easy to use, yet offers many features
+to make your audio experience a pleasant one."
+HOMEPAGE="http://gimmix.berlios.de/"
+SRC_URI="mirror://berlios/gimmix/gimmix-${VERSION}.tar.bz2"

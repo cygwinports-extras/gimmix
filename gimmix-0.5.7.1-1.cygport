@@ -1,5 +1,0 @@
-inherit gnome2
-
-DESCRIPTION="GTK+2 MPD client"
-HOMEPAGE="http://gimmix.berlios.de/"
-SRC_URI="mirror://berlios/${PN}/${P}.tar.bz2"
